@@ -1,0 +1,2 @@
+model_checkpoint_path: "LeNet.ckpt-10"
+all_model_checkpoint_paths: "LeNet.ckpt-10"
