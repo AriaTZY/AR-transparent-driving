@@ -16,7 +16,7 @@
 
 ​	摄像头需要按照图示的方法安装，将三个摄像头朝向不同方向但保证相邻两相机拍摄画面有重叠，因为需要使用SURF配对来校正拼接，同时透视变化后的图片容易在边角处缺失图片信息，所以保证较大的重叠可以满足较好的系统输出效果。
 
-![camera_mount](.\docs\camera_mount.JPG)
+![camera_mount](./docs/camera_mount.JPG)
 
 #### 3. UI界面使用
 
@@ -30,14 +30,14 @@
 
 * 自动校准：通过SIFT/SURF提取特征点并匹配来进行摄像头参数估计
 
-![UI](.\docs\UI.png)
+![UI](./docs/UI.png)
 
 ## 3. 成果展示
 
 1. 生成画面显示：
 
-![pov](.\docs\pov.gif)
+![pov](./docs/pov.gif)
 
 2. 配合可穿戴眼镜（显示屏）的效果
 
-   ![VR](.\docs\VR.gif)
+   ![VR](./docs/VR.gif)
