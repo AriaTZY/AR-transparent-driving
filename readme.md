@@ -16,7 +16,7 @@
 
 ​	摄像头需要按照图示的方法安装，将三个摄像头朝向不同方向但保证相邻两相机拍摄画面有重叠，因为需要使用SURF配对来校正拼接，同时透视变化后的图片容易在边角处缺失图片信息，所以保证较大的重叠可以满足较好的系统输出效果。
 
-![camera_mount](./docs/camera_mount.JPG)
+<img src="./docs/camera_mount.JPG" alt="camera_mount" style="zoom:50%;" />
 
 #### 3. UI界面使用
 
@@ -45,3 +45,17 @@
 3. 配合YOLO检测可以在显示屏中标记出距离较近的车辆，提醒司机注意
 
 ![yolo_test](./docs/yolo_test.gif)
+
+## 4. 所获奖项
+
+1. “华为杯”中国大学生智能设计竞赛 —— 国家级一等奖
+
+   ![huawei-cup](./docs/huawei-cup.png)
+
+2. 湖南省第15届大学生计算机程序设计竞赛 —— 省级一等奖
+
+   ![acm](./docs/acm.png)
+
+3. 第二届全国大学生嵌入式芯片与系统设计竞赛暨智能互联大赛 —— 中南赛区二等奖
+
+   ![zhinenghulian](./docs/zhinenghulian.png)
