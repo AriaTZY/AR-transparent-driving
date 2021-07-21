@@ -41,3 +41,7 @@
 2. 配合可穿戴眼镜（显示屏）的效果
 
 ![VR](./docs/VR.gif)
+
+3. 配合YOLO检测可以在显示屏中标记出距离较近的车辆，提醒司机注意
+
+![yolo_test](./docs/yolo_test.gif)
